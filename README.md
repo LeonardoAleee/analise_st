@@ -1,6 +1,6 @@
 # Modelagem da variável 'Volume'
 
-Este repositório contém todo o material de apoio — código, dados e o relatório  — resultante da análise e modelagem da variável **'Volume'**.
+Este repositório contém todo o material de apoio — código, dados e o relatório  — resultante da análise e modelagem da variável 'Volume'.
 
 ---
 
